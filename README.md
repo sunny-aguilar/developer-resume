@@ -1,4 +1,5 @@
 # Sandro Aguilar
+### Software Developer
 My resume
   ```sh
   github-learning-lab ~/Projects/recipe-repository
